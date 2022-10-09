@@ -15,12 +15,13 @@
 
 ## Running
 
-1. Follow the [Turi's Guide - Prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites)
+1. Follow [Turi's Guide - Prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites)
 2. Install TAURI's CLI:
    ```shell
     cargo install tauri-cli
    ```
-3. Run:
+3. Follow [Yew's Guide - Prerequisites](https://yew.rs/docs/tutorial#prerequisites)
+4. Run:
    ```shell
     cargo tauri dev
    ```
